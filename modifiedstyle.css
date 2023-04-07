@@ -22,26 +22,23 @@ margin-top: 5rem;
 #Subject{
     width: 97.5%;
     margin-bottom: 10px;
-    color: blue;
+    color: rgb(4, 4, 93);
     text-align: center;
     border-radius: 30px;
-    color: aquamarine;
-    background-color: coral
+    background-color: rgb(236, 229, 229);
 }
 #Name {
-    color: blue;
     text-align: center;
     border-radius: 30px;
-    color: aquamarine;
-    background-color: coral
+    color: rgb(4, 4, 93);
+    background-color: rgb(236, 229, 229);
 }
 
 #Email {
-    color: blue;
     text-align: center;
     border-radius: 30px;
-    color: rgb(127, 255, 212);
-    background-color: coral
+    color: rgb(4, 4, 93);
+    background-color: rgb(236, 229, 229);
 }
 input {
     margin: 4px;
@@ -57,7 +54,8 @@ textarea{
     outline: none;
     width: 97.5%;
     padding: 5px;
-    background-color: aqua;
+    color: rgb(4, 4, 93);
+    background-color: rgb(236, 229, 229);
 }
 a{
     text-decoration: none;
